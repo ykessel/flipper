@@ -11,14 +11,14 @@
   "dependencies": {
     "flipper-babel-transformer": "0.0.0",
     "flipper-plugin-lib": "0.0.0",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^11.1.0",
     "metro": "^0.66.0",
     "metro-cache": "^0.66.0",
     "metro-minify-terser": "^0.66.0",
     "npm-packlist": "^2.2.2"
   },
   "devDependencies": {
-    "@types/fs-extra": "^9.0.11",
+    "@types/fs-extra": "^11.0.0",
     "@types/jest": "^26.0.23",
     "@types/node": "^15.12.5",
     "flipper-test-utils": "0.0.0",
